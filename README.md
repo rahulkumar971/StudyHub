@@ -1,5 +1,3 @@
-
-StudyHub
 StudyHub is a full-stack web application that helps students access all their study materials in one place. It provides a centralized platform to organize notes, videos, PDFs, and useful links by subject and topic, making learning more structured and efficient.
 
 🚀 Features
